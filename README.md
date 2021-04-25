@@ -5,3 +5,5 @@
 ## - [Open Maze Creator](https://necsii.github.io/Maze-Creator/) -
 
 ![6 -20-2018 17-45-54](Screenshots/Preview.gif)
+
+Hint: After pressing the brush button, left-click to paint cells, right click to remove them, and middle mouse button click to carve a path into the maze shell!
