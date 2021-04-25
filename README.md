@@ -2,7 +2,7 @@
 
 > Selfmade painting maze generator using Unity and Webgl. Includes drawing, generating algorythm, color changes and downloading.
 
-## [Maze Creator Link](https://necsii.github.io/Maze-Creator/) - Open Maze Creator
+## - [Open Maze Creator](https://necsii.github.io/Maze-Creator/) -
 
 # Maze-Creator
 Online maze editor with a download feature
