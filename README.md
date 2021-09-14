@@ -8,4 +8,4 @@ Selfmade painting maze generator using Unity and Webgl. Includes drawing, genera
 
 Hint: After pressing the brush button, left-click to paint cells, right click to remove them, and middle mouse button click to carve a path into the maze shell!
 
-## - [Open Maze Creator](https://necsii.github.io/Maze-Creator/) -
+## - [Open Maze Creator](https://its-nion.github.io/Maze-Creator/) -
